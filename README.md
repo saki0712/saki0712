@@ -14,11 +14,13 @@
 ### 📫 How to reach me
 - 💼 [LinkedIn](https://linkedin.com/in/sakitanaka)
 
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saki0712&hide_progress=true)
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=saki0712&style=plastic" alt="Visitor">
 </div>
-
-
 
 <!--
 **saki0712/saki0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
